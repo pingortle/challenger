@@ -3,6 +3,10 @@ class ChallengesController < ApplicationController
     @resources = Challenge.all
   end
 
+  def show
+    @resource = Challenge.find(params[:id])
+  end
+
   def new
     @resource = Challenge.new
   end

@@ -1,0 +1,6 @@
+- https://tailwindcss.com/components, https://tailwindui.com/components ($250)
+- Clearance https://thoughtbot.com/blog/analysis-paralysis-access-control
+- Trestle https://trestle.io
+- https://railsnew.io
+- https://github.com/michaldarda/parcel-rails
+- https://github.com/testdouble/good-migrations

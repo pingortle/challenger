@@ -9,6 +9,7 @@ describe('Challenges', () => {
     })
 
     it('can view', () => {
+      cy.contains('Challenge fixture').click()
       cy.contains('Challenge fixture').should('exist')
     })
   })
